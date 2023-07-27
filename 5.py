@@ -48,7 +48,7 @@ print(person)
 
 person = {
     "name": "Rahul Kumar",
-    "age": 22,
+    "age":  22,
     "location": "Ranchi"
 }
 print(person)

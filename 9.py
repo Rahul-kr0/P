@@ -16,7 +16,7 @@ for i in newarr:
 
 arrname = array('i', [])
 
-n = int(input("Enter length of an array : "))
+n = int(input(" Enter length of an array : "))
 
 for i in range(n):
     x = int(input("Enter next number : "))

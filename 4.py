@@ -28,5 +28,5 @@ print(setA.intersection(setB))
 # difference
 print(setA.difference(setB))
 
-#Symmetric difference
+#Symmetric  difference
 print(setA.symmetric_difference(setB))

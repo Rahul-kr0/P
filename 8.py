@@ -6,7 +6,7 @@ for x in color:
 
 # break is used to stop the program
 print("break statement")
-color = ["Red", "Green", "blue"]
+color = ["Red", "Green", "blue "]
 for x in color:
     break
     print(x)

@@ -38,7 +38,7 @@ def update(x):
 # but after changing value of x, 
 # it will pass as call by reference as it has new location id
     print(id(x))
-    print("x ", x)
+    print("x  ", x)
 
 a = [2,4,5,6,7]
 print(id(a))

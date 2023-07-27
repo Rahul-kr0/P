@@ -9,7 +9,7 @@ print(simpleList)
 print(type(simpleList))
 
 # print any strr or number by index number of list
-print("Simplelist[1] = ", simpleList[1]) 
+print("Simplelist[1] =  ", simpleList[1])
 
 # print any strr or number in between list by index number
 print("SimpleList[0:3] = ", simpleList[0:3])
