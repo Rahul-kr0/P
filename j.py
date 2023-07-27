@@ -1,11 +1,12 @@
 # function in python
 
-def add(a,b):
+
+def add(a,b): # a and b are formal argument
     sum = a+b
     sub = a-b
     return sum,sub
 
-result1,result2 = add(4,5)
+result1,result2 = add(4,5) # whereas 4 and 5 are Actual argument
 print(result1 ,result2)
 
 
@@ -38,8 +39,9 @@ def update(x):
 # but after changing value of x, 
 # it will pass as call by reference as it has new location id
     print(id(x))
-    print("x  ", x)
+    print("x ", x)
 
 a = [2,4,5,6,7]
 print(id(a))
 update(a)
+
