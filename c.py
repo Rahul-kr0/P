@@ -1,5 +1,5 @@
 # How to use List
-# 
+# And Tuples
 
 simpleList = ["red", "green", "blue", 4, 5, 6]
 # [] brackets used for list. Since lists are changable

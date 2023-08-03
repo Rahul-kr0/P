@@ -24,6 +24,7 @@ for i in range(n):
 print(arrname)
 
 # long method to search element in an array
+
 s = int(input("Enter a number to search in an array : "))
 k = 0
 for i in arrname:
@@ -31,5 +32,8 @@ for i in arrname:
         print(k)
         break
     k += 1
+
 # short method to search element in an array
 print(arrname.index(s))
+
+
