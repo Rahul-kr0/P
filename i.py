@@ -37,3 +37,9 @@ for i in arrname:
 print(arrname.index(s))
 
 
+# To reverse an array
+
+vals = array('i',[7,4,6,7,8,9])
+vals.reverse()
+print(vals)
+
